@@ -1,0 +1,201 @@
+2020-06-04 14:29:40,445 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 14:29:40,560 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 14:29:40,560 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 14:29:40,560 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 14:29:40,560 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 14:29:40,645 200    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 14:29:40,866 421    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 561247961.
+2020-06-04 14:29:40,866 421    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2173f6d9]
+2020-06-04 14:29:40,868 423    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select * from user; 
+2020-06-04 14:29:40,898 453    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-06-04 14:29:40,929 484    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 7
+2020-06-04 14:29:40,929 484    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2173f6d9]
+2020-06-04 14:29:40,930 485    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2173f6d9]
+2020-06-04 14:29:40,930 485    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 561247961 to pool.
+2020-06-04 15:05:31,703 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 15:05:31,808 105    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:05:31,808 105    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:05:31,808 105    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:05:31,808 105    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:05:32,087 384    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 15:05:32,332 629    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1704237553.
+2020-06-04 15:05:32,332 629    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@659499f1]
+2020-06-04 15:05:32,334 631    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select * from user; 
+2020-06-04 15:05:32,360 657    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-06-04 15:05:32,384 681    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 7
+2020-06-04 15:05:32,384 681    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@659499f1]
+2020-06-04 15:05:32,385 682    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@659499f1]
+2020-06-04 15:05:32,385 682    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1704237553 to pool.
+2020-06-04 15:06:15,009 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 15:06:15,165 156    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:06:15,165 156    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:06:15,166 157    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:06:15,166 157    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:07:18,047 63038  [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 15:07:18,300 63291  [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1704237553.
+2020-06-04 15:07:18,301 63292  [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@659499f1]
+2020-06-04 15:07:18,303 63294  [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select * from user; 
+2020-06-04 15:07:18,330 63321  [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-06-04 15:07:18,357 63348  [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 7
+2020-06-04 15:07:18,358 63349  [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@659499f1]
+2020-06-04 15:07:18,358 63349  [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@659499f1]
+2020-06-04 15:07:18,358 63349  [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1704237553 to pool.
+2020-06-04 15:28:41,837 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 15:28:41,952 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:41,952 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:41,952 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:41,952 115    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:42,040 203    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 15:28:42,267 430    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 561247961.
+2020-06-04 15:28:42,267 430    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2173f6d9]
+2020-06-04 15:28:42,269 432    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select * from user; 
+2020-06-04 15:28:42,294 457    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-06-04 15:28:42,338 501    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 7
+2020-06-04 15:28:42,339 502    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2173f6d9]
+2020-06-04 15:28:42,339 502    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2173f6d9]
+2020-06-04 15:28:42,339 502    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 561247961 to pool.
+2020-06-04 15:28:50,175 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 15:28:50,271 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:50,271 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:50,271 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:50,271 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:28:50,355 180    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 15:28:50,574 399    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 2104545713.
+2020-06-04 15:28:50,574 399    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d70d1b1]
+2020-06-04 15:28:50,576 401    [           main] DEBUG .itheima.dao.IUserDao.saveUser  - ==>  Preparing: insert into user(username,address,sex,birthday)values(?,?,?,?); 
+2020-06-04 15:28:50,615 440    [           main] DEBUG .itheima.dao.IUserDao.saveUser  - ==> Parameters: dao impl user(String), 北京市顺义区(String), 男(String), 2020-06-04 15:28:50.342(Timestamp)
+2020-06-04 15:28:50,633 458    [           main] DEBUG .itheima.dao.IUserDao.saveUser  - <==    Updates: 1
+2020-06-04 15:28:50,635 460    [           main] DEBUG ao.IUserDao.saveUser!selectKey  - ==>  Preparing: select last_insert_id(); 
+2020-06-04 15:28:50,635 460    [           main] DEBUG ao.IUserDao.saveUser!selectKey  - ==> Parameters: 
+2020-06-04 15:28:50,651 476    [           main] DEBUG ao.IUserDao.saveUser!selectKey  - <==      Total: 1
+2020-06-04 15:28:50,651 476    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d70d1b1]
+2020-06-04 15:28:50,681 506    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d70d1b1]
+2020-06-04 15:28:50,682 507    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d70d1b1]
+2020-06-04 15:28:50,682 507    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 2104545713 to pool.
+2020-06-04 15:34:58,718 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 15:34:58,800 82     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-06-04 15:34:58,800 82     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-06-04 15:34:58,800 82     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-06-04 15:34:58,801 83     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-06-04 15:34:58,801 83     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-06-04 15:34:58,802 84     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:34:58,802 84     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:34:58,843 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2020-06-04 15:34:58,843 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:34:58,843 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain/User.class
+2020-06-04 15:34:58,844 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain/User.class
+2020-06-04 15:34:58,844 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   4 N
+2020-06-04 15:34:58,845 127    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.domain.User matches criteria [is assignable to Object]
+2020-06-04 15:34:58,872 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:34:58,872 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:34:58,872 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:34:58,872 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:34:58,874 156    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao
+2020-06-04 15:34:58,875 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao
+2020-06-04 15:34:58,876 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: impl
+2020-06-04 15:34:58,877 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-06-04 15:34:58,877 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-06-04 15:34:58,877 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao
+2020-06-04 15:34:58,877 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl
+2020-06-04 15:34:58,877 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl
+2020-06-04 15:34:58,878 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: UserDaoImpl.class
+2020-06-04 15:34:58,878 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl
+2020-06-04 15:34:58,878 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl/UserDaoImpl.class
+2020-06-04 15:34:58,878 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl/UserDaoImpl.class
+2020-06-04 15:34:58,879 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   4 k
+2020-06-04 15:34:58,879 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.class
+2020-06-04 15:34:58,879 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.class
+2020-06-04 15:34:58,879 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   4    findAll ()Ljava/util/List; 	Signature -()Ljava/util/List<Lcom/itheima/domain/User;>; saveUser (Lcom/itheima/domain/User;)V 
+2020-06-04 15:34:58,879 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.xml
+2020-06-04 15:34:58,879 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.xml
+2020-06-04 15:34:58,880 162    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-06-04 15:34:58,880 162    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.impl.UserDaoImpl matches criteria [is assignable to Object]
+2020-06-04 15:34:58,880 162    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-06-04 15:34:58,967 249    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 15:34:59,181 463    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1131316523.
+2020-06-04 15:34:59,181 463    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@436e852b]
+2020-06-04 15:34:59,183 465    [           main] DEBUG .itheima.dao.IUserDao.saveUser  - ==>  Preparing: insert into user(username,address,sex,birthday)values(?,?,?,?); 
+2020-06-04 15:34:59,215 497    [           main] DEBUG .itheima.dao.IUserDao.saveUser  - ==> Parameters: dao impl user(String), 北京市顺义区(String), 男(String), 2020-06-04 15:34:58.952(Timestamp)
+2020-06-04 15:34:59,216 498    [           main] DEBUG .itheima.dao.IUserDao.saveUser  - <==    Updates: 1
+2020-06-04 15:34:59,220 502    [           main] DEBUG ao.IUserDao.saveUser!selectKey  - ==>  Preparing: select last_insert_id(); 
+2020-06-04 15:34:59,221 503    [           main] DEBUG ao.IUserDao.saveUser!selectKey  - ==> Parameters: 
+2020-06-04 15:34:59,239 521    [           main] DEBUG ao.IUserDao.saveUser!selectKey  - <==      Total: 1
+2020-06-04 15:34:59,240 522    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@436e852b]
+2020-06-04 15:34:59,272 554    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@436e852b]
+2020-06-04 15:34:59,272 554    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@436e852b]
+2020-06-04 15:34:59,273 555    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1131316523 to pool.
+2020-06-04 15:38:02,182 1      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 15:38:02,292 111    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-06-04 15:38:02,292 111    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-06-04 15:38:02,292 111    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-06-04 15:38:02,293 112    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-06-04 15:38:02,293 112    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-06-04 15:38:02,294 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:38:02,294 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:38:02,347 166    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2020-06-04 15:38:02,348 167    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:38:02,348 167    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain/User.class
+2020-06-04 15:38:02,348 167    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain/User.class
+2020-06-04 15:38:02,352 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   4 N
+2020-06-04 15:38:02,354 173    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.domain.User matches criteria [is assignable to Object]
+2020-06-04 15:38:02,386 205    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:38:02,386 205    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:38:02,386 205    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:38:02,386 205    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:38:02,473 292    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 15:38:02,715 534    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 738433734.
+2020-06-04 15:38:02,716 535    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2c039ac6]
+2020-06-04 15:38:02,718 537    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select * from user; 
+2020-06-04 15:38:02,760 579    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-06-04 15:38:02,813 632    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 9
+2020-06-04 15:38:02,813 632    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2c039ac6]
+2020-06-04 15:38:02,814 633    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2c039ac6]
+2020-06-04 15:38:02,814 633    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 738433734 to pool.
+2020-06-04 15:39:11,813 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-06-04 15:39:11,908 95     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-06-04 15:39:11,908 95     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-06-04 15:39:11,909 96     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-06-04 15:39:11,909 96     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-06-04 15:39:11,910 97     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-06-04 15:39:11,910 97     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:39:11,910 97     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:39:11,948 135    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2020-06-04 15:39:11,949 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain
+2020-06-04 15:39:11,949 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain/User.class
+2020-06-04 15:39:11,949 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/domain/User.class
+2020-06-04 15:39:11,950 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   4 N
+2020-06-04 15:39:11,950 137    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.domain.User matches criteria [is assignable to Object]
+2020-06-04 15:39:11,982 169    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:39:11,982 169    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:39:11,982 169    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:39:11,982 169    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-06-04 15:39:11,984 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao
+2020-06-04 15:39:11,985 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao
+2020-06-04 15:39:11,987 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: impl
+2020-06-04 15:39:11,987 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-06-04 15:39:11,988 175    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-06-04 15:39:11,988 175    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao
+2020-06-04 15:39:11,988 175    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl
+2020-06-04 15:39:11,988 175    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl
+2020-06-04 15:39:11,989 176    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: UserDaoImpl.class
+2020-06-04 15:39:11,989 176    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl
+2020-06-04 15:39:11,989 176    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl/UserDaoImpl.class
+2020-06-04 15:39:11,989 176    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/impl/UserDaoImpl.class
+2020-06-04 15:39:11,990 177    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   4 k
+2020-06-04 15:39:11,991 178    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.class
+2020-06-04 15:39:11,991 178    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.class
+2020-06-04 15:39:11,992 179    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   4    findAll ()Ljava/util/List; 	Signature -()Ljava/util/List<Lcom/itheima/domain/User;>; saveUser (Lcom/itheima/domain/User;)V 
+2020-06-04 15:39:11,992 179    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.xml
+2020-06-04 15:39:11,992 179    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/ideaProjectsGit/mybatisprojects/mybatisday02_dao/mybatisday02-dao/target/classes/com/itheima/dao/IUserDao.xml
+2020-06-04 15:39:11,992 179    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-06-04 15:39:11,993 180    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.impl.UserDaoImpl matches criteria [is assignable to Object]
+2020-06-04 15:39:11,993 180    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-06-04 15:39:12,093 280    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-06-04 15:39:12,328 515    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1484594489.
+2020-06-04 15:39:12,328 515    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@587d1d39]
+2020-06-04 15:39:12,330 517    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select * from user; 
+2020-06-04 15:39:12,359 546    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-06-04 15:39:12,401 588    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 9
+2020-06-04 15:39:12,402 589    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@587d1d39]
+2020-06-04 15:39:12,402 589    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@587d1d39]
+2020-06-04 15:39:12,402 589    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1484594489 to pool.
